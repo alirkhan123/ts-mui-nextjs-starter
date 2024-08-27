@@ -21,8 +21,4 @@ sections:
         size: large
         variant: outlined
         color: primary
-    image:
-      type: Image
-      url: /images/favicon.svg
-      altText: Image alt text
 ---
